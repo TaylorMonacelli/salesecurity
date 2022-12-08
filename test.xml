@@ -1,0 +1,17 @@
+<doc>
+  <footnote>
+    <p type="Footnote Text">
+      <link ref="http://www.facebook.org" />
+    </p>
+  </footnote>
+  <footnote>
+    <p type="Footnote Text">
+      <link ref="http://www.wiki.org" />
+    </p>
+  </footnote>
+  <footnote>
+    <p type="Footnote Paragraph">
+      <link ref="http://www.wiki.org" />
+    </p>
+  </footnote>
+</doc>
